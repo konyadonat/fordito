@@ -1,0 +1,15 @@
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\bin\Debug\netcoreapp3.1\Forditoprog.exe
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\bin\Debug\netcoreapp3.1\Forditoprog.deps.json
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\bin\Debug\netcoreapp3.1\Forditoprog.runtimeconfig.json
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\bin\Debug\netcoreapp3.1\Forditoprog.runtimeconfig.dev.json
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\bin\Debug\netcoreapp3.1\Forditoprog.dll
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\bin\Debug\netcoreapp3.1\Forditoprog.pdb
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\obj\Debug\netcoreapp3.1\Forditoprog.csprojAssemblyReference.cache
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\obj\Debug\netcoreapp3.1\Forditoprog.Form1.resources
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\obj\Debug\netcoreapp3.1\Forditoprog.csproj.GenerateResource.cache
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\obj\Debug\netcoreapp3.1\Forditoprog.AssemblyInfoInputs.cache
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\obj\Debug\netcoreapp3.1\Forditoprog.AssemblyInfo.cs
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\obj\Debug\netcoreapp3.1\Forditoprog.csproj.CoreCompileInputs.cache
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\obj\Debug\netcoreapp3.1\Forditoprog.dll
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\obj\Debug\netcoreapp3.1\Forditoprog.pdb
+C:\Users\konya\source\repos\forditoprog\Forditoprog\Forditoprog\obj\Debug\netcoreapp3.1\Forditoprog.genruntimeconfig.cache
